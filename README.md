@@ -4,7 +4,5 @@
 
 [![Kir93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical)
 
-[![opgc](https://api.opgc.me/githubs/users/Kir93/tag/?theme=dracula)](https://opgc.me/#/users/Kir93)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kir93)](https://solved.ac/kir93)
