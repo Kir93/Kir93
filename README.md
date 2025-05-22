@@ -3,8 +3,8 @@
 ## 📫 Contact
 <div>
 <a href="mailto:kir931028@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://kir93.co.kr" rel="nofollow"><img src="https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/kir93/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>[💼LinkedIn]()
+<a href="https://kir93.co.kr" target="_blank"><img src="https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kir93/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </div>
 
 ## 🔧 Skill
