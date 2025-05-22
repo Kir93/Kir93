@@ -1,4 +1,7 @@
 # Hi! I`m Han. 👋
+I'm a frontend engineer who enjoys building with **Next.js**, **TypeScript**, and all the shiny new things in frontend.  
+I'm into clean UIs, smooth dev workflows, and making things that are fun to use — both for users and developers.  
+Always exploring ways to write better code, faster.
 
 ## 📫 Contact
 <div>
@@ -15,7 +18,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-## State
+## 📊 Stats
 
 [![Kir93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical)
 
