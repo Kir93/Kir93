@@ -20,4 +20,4 @@ Always exploring ways to write better code, faster.
 
 ## 📊 Stats
 
-[![Kir93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical)
+[![Kir93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical&count_private=true)](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical&count_private=true)
