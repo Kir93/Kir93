@@ -17,7 +17,3 @@ Always exploring ways to write better code, faster.
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
-
-## 📊 Stats
-
-[![Kir93's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical&count_private=true)](https://github-readme-stats.vercel.app/api?username=Kir93&show_icons=true&theme=radical&count_private=true)
