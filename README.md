@@ -1,7 +1,8 @@
 # Hi! I`m Han. 👋
-I'm a frontend engineer who enjoys building with **Next.js**, **TypeScript**, and all the shiny new things in frontend.  
-I'm into clean UIs, smooth dev workflows, and making things that are fun to use — both for users and developers.  
-Always exploring ways to write better code, faster.
+Frontend engineer building with Next.js and TypeScript — and the systems around them.
+Lately I design AI-assisted dev workflows: Claude Code harnesses, contract-based skills,
+and LLM-as-judge quality gates that keep agent output reviewable.
+I also like the plumbing: monorepo migrations, build pipelines, and release automation.
 
 ## 📫 Contact
 <div>
